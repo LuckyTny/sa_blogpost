@@ -1,4 +1,5 @@
 <script>
+    import "../node_modules/materialize-css/dist/css/materialize.min.css";
 	export let name;
 </script>
 
